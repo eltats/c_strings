@@ -18,7 +18,7 @@ Implementation of libc `string.h` functions with some additions, including `spri
 ## Build
 ```
 $ git clone https://github.com/eltats/c_strings
-$ cd s21_strings/src/
+$ cd c_strings/src/
 $ make 
 ```
 ### Tests
